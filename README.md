@@ -1,3 +1,7 @@
+# Simple Redux implementation using React Hooks
+
+![image](https://github.com/KLC215/simple-redux-with-react-hooks/blob/master/2019-02-12%20at%2012.03%20AM.png?raw=true)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
